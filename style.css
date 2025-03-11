@@ -1,0 +1,77 @@
+* {
+  margin: 0;    
+  padding: 0;   
+  box-sizing: border-box; 
+}
+
+body{
+  font-family:'Calculator', sans-serif;
+  text-align: center;
+  
+}
+
+.content{
+  background-color: grey;
+  padding: 20px;
+  border-radius: 15px;
+  width: 500px;
+  margin-left: 450px;
+  margin-top: 150px;
+}
+
+
+.nome{
+  background-color: yellow;
+  height: 80px;
+  padding: 20px;
+  border-radius: 15px;
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.valor{
+  font-size: 40px;
+  font-weight:600;
+  
+}
+
+#cxvalor{
+  font-size:20px;
+  text-align: center;
+  border-radius: 7px;
+  font-weight: 600;
+}
+
+.porcentagem{
+  font-size: 40px;
+  margin-top: 15px;
+  font-weight: 600;
+ 
+}
+
+#cxporcentagem{
+  font-size:20px;
+  text-align: center;
+  border-radius: 7px;
+  font-weight: 600;
+}
+
+#calcular{
+  margin-top: 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  font-weight: 600;
+  box-shadow: -1px -2px 0px 0px;
+
+}
+
+#resultado{
+  font-size: 40px;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 7px ;
+  box-shadow: -3px -2px 0px 0px;
+
+}
