@@ -37,9 +37,12 @@ O resultado será exibido na tela.
 
 📂 Estrutura do Projeto
 
+
 📁 calculadora-porcentagem
  ├── index.html
+ 
  ├── style.css
+ 
  ├── script.js
 
 
