@@ -1,9 +1,11 @@
 Calculadora de Porcentagem
 
-Uma calculadora simples para calcular porcentagens com um design inspirado no estilo Vaporwave.
+Uma calculadora simples para calcular porcentagem.
 
 📷 Imagem da interface. 
+
 ![alt text](image.png)
+
 
 🚀 Tecnologias
 
